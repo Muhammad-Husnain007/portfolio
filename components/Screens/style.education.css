@@ -1,0 +1,134 @@
+.educationDiv {
+    width: 100%;
+    height: 150vh;
+    /* background-color: antiquewhite; */
+    margin-top: 70px;
+}
+
+.div1 {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center !important;
+}
+
+.div1 span {
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 500px;
+}
+
+.education {
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.matric {
+    width: 400px;
+    height: 250px;
+    border: 2px solid gray;
+    position: relative;
+    left: -250px;
+    border-radius: 10px;
+}
+
+.matric span {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.matric p {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 30px;
+    top: 26px;
+    color: gray;
+    line-height: 25px;
+}
+
+.inter {
+    width: 400px;
+    height: 250px;
+    /* background-color: rgb(95, 65, 25); */
+    border-radius: 10px;
+    border: 2px solid gray;
+
+
+}
+
+.inter span {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.inter p {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 30px;
+    top: 26px;
+    color: gray;
+    line-height: 25px;
+}
+
+.div2 {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    /* background-color: rgb(70, 144, 209); */
+    justify-content: center !important;
+}
+
+.div2 span {
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 500px;
+}
+
+.projects {
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project1 {
+    width: 400px;
+    height: 250px;
+    border: 2px solid gray;
+    position: relative;
+    left: -250px;
+    border-radius: 10px;
+}
+
+.project2 {
+    width: 400px;
+    height: 250px;
+    /* background-color: rgb(95, 65, 25); */
+    border-radius: 10px;
+    border: 2px solid gray;
+
+
+}
+
+.project3 {
+    width: 400px;
+    height: 250px;
+    border: 2px solid gray;
+    position: relative;
+    left: -250px;
+    border-radius: 10px;
+}
