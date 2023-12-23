@@ -1,0 +1,68 @@
+.contactDiv{
+    width: 100%;
+    height: 78vh;
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  
+}
+.contactMe{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 260px;
+    background-color: aqua;
+
+}
+.contactMe span{
+    font-size: 50px;
+
+}
+.contactMe p{
+    font-size: 22px;
+    margin-top: 20px;
+    color: gray;
+
+}
+.contactMe a{
+    text-decoration: none;
+    color: gray;
+}
+.contactMe a p:hover{
+    color: black;
+
+}
+.social-media {
+    width: 300px;
+    height: 70px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-left: 480px;
+}
+.social-media a img {
+    width: 40px;
+    height: 40px;
+    padding-left: 20px;
+}
+.lastDiv{
+    width: 100%;
+    height: 100px;
+    background-color: burlywood;
+    margin-top: 35px;
+    border-top: 2px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.lastDiv span{
+    font-size: 30px;
+
+}
+.lastDiv p{
+    font-size: 20px;
+
+}
